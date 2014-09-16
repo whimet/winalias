@@ -5,7 +5,7 @@ A command line alias utility for Windows implemented purely by Windows batch scr
 
 Usage: alias [alias_name] [your_command_with_options_and_arguments]
 
-Here is some examples:
+Here are some examples:
 
 * alias go @cd /d [Your_Project_Directory]
 
