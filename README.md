@@ -30,3 +30,8 @@ Here are some examples:
   List all batch files under C:\mybin
 
 The purpose of this Windows alias utility is to speed up your frequently used operations using command line, such as everyday development activities.
+
+How to install
+========
+
+Clone the project, and run install.bat from the check-out directory.

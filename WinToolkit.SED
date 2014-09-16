@@ -39,7 +39,7 @@ FILE5="xargs.bat"
 FILE6="install.bat"
 FILE7="launcher.bat"
 [SourceFiles]
-SourceFiles0=C:\winalias\
+SourceFiles0=C:\workspace\winalias\
 [SourceFiles0]
 %FILE0%=
 %FILE1%=
