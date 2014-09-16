@@ -22,6 +22,12 @@ if %1 == /v (
 	goto end
 )
 
+
+if %1 == /e (
+	notepad "%aliases_dir%\%2.bat"
+	goto end
+)
+
 set alias=%1
 set cmdstr=%2 %3 %4 %5 %6 %7 %8 %9
 
